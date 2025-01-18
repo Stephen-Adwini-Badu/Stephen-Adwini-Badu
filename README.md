@@ -13,13 +13,13 @@ Results-driven and metrics-oriented data scientist with expertise in Jupyter, SQ
 <table align="center">
 <tr>
   <th>SKILL</th>
-  <th>EXPERTISE</th>
+  <th style="text-align: center;">EXPERTISE</th>
   <th>TOOLS</th>
 </tr>
 <tr>
-  <td>Business Analytics</td>
-  <td align="center">Classification Analysis</td>
-  <td>Jupyter Notebooks</td>
+  <td>Business Analytics&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</td>
+  <td align="center">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Classification Analysis&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</td>
+  <td>Jupyter Notebooks&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</td>
 </tr>
 <tr>
   <td>Business Intelligence</td>
