@@ -1,4 +1,5 @@
 ![Image](https://github.com/user-attachments/assets/37929506-e7cb-4c6f-b40e-7b702c92c463)
+
 <h1 align="center">Hi 👋, I'm Stephen Adwini-Badu</h1>
 
 <p align="center">
@@ -36,17 +37,28 @@ Results-driven and metrics-oriented data scientist with expertise in Jupyter, SQ
 
 <h2 align="center">🏆 FLAGSHIP PROJECTS 🏛️</h2>
 
-<p align="center">
-  <a href="https://github.com/Stephen-Adwini-Badu/04.-Quantium-Project" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Quantium%20Project-%23CD7F32.svg?style=for-the-badge&logo=github&logoColor=white" alt="Quantium Project" />
-  </a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  <a href="https://github.com/Stephen-Adwini-Badu/07.-Ticket-Forecasting-Project" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Ticket%20Forecasting%20Project-%23CD7F32.svg?style=for-the-badge&logo=github&logoColor=white" alt="Ticket Forecasting Project" />
-  </a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  <a href="https://github.com/Stephen-Adwini-Badu/09.-Loan-Eligibility-Project" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Loan%20Eligibility%20Project-%23CD7F32.svg?style=for-the-badge&logo=github&logoColor=white" alt="Loan Eligibility Project" />
-  </a>
-</p>
+<table align="center" style="border: none; border-spacing: 0; text-align: center;">
+  <tr>
+    <td style="border: none; padding: 0 20px;">&emsp;
+      <a href="https://github.com/Stephen-Adwini-Badu/04.-Quantium-Project" target="_blank" style="text-decoration: none;">
+        <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXNjcmlwZXk3NDk0OTY3emg0cDB1NGN0M2JrdGZ3OTltMGo4NDFvOCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/3ohhwJPSL00H2r6Rhe/giphy.webp" alt="Quantium Project" width="80" />
+        <br />Quantium Project
+      </a>
+    </td>
+    <td style="border: none; padding: 5 20px;">&emsp; &emsp; &ensp;
+      <a href="https://github.com/Stephen-Adwini-Badu/07.-Ticket-Forecasting-Project" target="_blank" style="text-decoration: none;">
+        <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXNjcmlwZXk3NDk0OTY3emg0cDB1NGN0M2JrdGZ3OTltMGo4NDFvOCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/3ohhwJPSL00H2r6Rhe/giphy.webp" alt="Ticket Forecasting Project" width="80" />
+        <br />Ticket Forecasting Project
+      </a>
+    </td>
+    <td style="border: none; padding: 0 20px;">&emsp; &ensp; &thinsp;
+      <a href="https://github.com/Stephen-Adwini-Badu/09.-Loan-Eligibility-Project" target="_blank" style="text-decoration: none;">
+        <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXNjcmlwZXk3NDk0OTY3emg0cDB1NGN0M2JrdGZ3OTltMGo4NDFvOCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/3ohhwJPSL00H2r6Rhe/giphy.webp" alt="Loan Eligibility Project" width="80" />
+        <br />Loan Eligibility Project
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br>
 
