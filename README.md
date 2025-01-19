@@ -1,5 +1,4 @@
-![Intro](https://github.com/user-attachments/assets/9e9cebf8-c8ad-4bb6-808a-beee15035198)
-
+![Image](https://github.com/user-attachments/assets/37929506-e7cb-4c6f-b40e-7b702c92c463)
 <h1 align="center">Hi 👋, I'm Stephen Adwini-Badu</h1>
 
 <p align="center">
