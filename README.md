@@ -11,26 +11,31 @@ Results-driven and metrics-oriented data scientist with expertise in Jupyter, SQ
 <h2 align="center">💼 REPERTOIRE 🛠️</h2>
 
 <table align="center">
-<tr>
-  <th>SKILL</th>
-  <th style="text-align: center;">EXPERTISE</th>
-  <th>TOOLS</th>
-</tr>
-<tr>
-  <td>Business Analytics&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</td>
-  <td align="center">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Classification Analysis&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</td>
-  <td>Jupyter Notebooks&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</td>
-</tr>
-<tr>
-  <td>Business Intelligence</td>
-  <td align="center">Regression Analysis</td>
-  <td>Microsoft SQL</td>
-</tr>
-<tr>
-  <td>Strategic Planning</td>
-  <td align="center">Time Series Analysis</td>
-  <td>Tableau</td>
-</tr>
+ <tr>
+   <th >SKILL</th>
+   <th style="text-align: center;">EXPERTISE</th>
+   <th style="text-align: center;">TOOLS</th>
+ </tr>
+ <tr>
+   <td>Classification Analysis &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</td>
+   <td>Business Analytics &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</td>
+   <td>Jupyter Notebooks &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</td>
+ </tr>
+ <tr>
+   <td>Regression Analysis</td>
+   <td>Business Intelligence</td>
+   <td>Microsoft Office</td>
+ </tr>
+ <tr>
+   <td>Time Series Analysis</td>
+   <td>Data Science</td>
+   <td>Microsoft SQL</td>
+ </tr>
+ <tr>
+   <td>Report Writing</td>
+   <td>Research Methods</td>
+   <td>Tableau</td>
+ </tr>
 </table>
 
 <br>
