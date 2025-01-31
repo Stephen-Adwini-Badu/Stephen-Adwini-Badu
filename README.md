@@ -46,25 +46,25 @@ Results-driven and metrics-oriented data scientist with expertise in Jupyter, SQ
   <tr>
     <td align="center">
       <a href="https://github.com/Stephen-Adwini-Badu/04.-Quantium-Project" target="_blank" style="text-decoration: none;">
-        <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXNjcmlwZXk3NDk0OTY3emg0cDB1NGN0M2JrdGZ3OTltMGo4NDFvOCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/3ohhwJPSL00H2r6Rhe/giphy.webp" alt="Quantium Project" width="80" />
+        <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXNjcmlwZXk3NDk0OTY3emg0cDB1NGN0M2JrdGZ3OTltMGo4NDFvOCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/3ohhwJPSL00H2r6Rhe/giphy.webp" alt="Quantium Project" width="100" />
         <br /> 04. Quantium Project
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/Stephen-Adwini-Badu/07.-Ticket-Forecasting-Project" target="_blank" style="text-decoration: none;">
-        <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXNjcmlwZXk3NDk0OTY3emg0cDB1NGN0M2JrdGZ3OTltMGo4NDFvOCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/3ohhwJPSL00H2r6Rhe/giphy.webp" alt="Ticket Forecasting Project" width="80" />
+        <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXNjcmlwZXk3NDk0OTY3emg0cDB1NGN0M2JrdGZ3OTltMGo4NDFvOCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/3ohhwJPSL00H2r6Rhe/giphy.webp" alt="Ticket Forecasting Project" width="100" />
         <br /> 07. Ticket Forecasting Project
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/Stephen-Adwini-Badu/09.-Loan-Eligibility-Project" target="_blank" style="text-decoration: none;">
-        <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXNjcmlwZXk3NDk0OTY3emg0cDB1NGN0M2JrdGZ3OTltMGo4NDFvOCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/3ohhwJPSL00H2r6Rhe/giphy.webp" alt="Loan Eligibility Project" width="80" />
+        <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXNjcmlwZXk3NDk0OTY3emg0cDB1NGN0M2JrdGZ3OTltMGo4NDFvOCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/3ohhwJPSL00H2r6Rhe/giphy.webp" alt="Loan Eligibility Project" width="100" />
         <br /> 09. Loan Eligibility Project
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/Stephen-Adwini-Badu/12.-Price-Regression-Project" target="_blank" style="text-decoration: none;">
-        <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXNjcmlwZXk3NDk0OTY3emg0cDB1NGN0M2JrdGZ3OTltMGo4NDFvOCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/3ohhwJPSL00H2r6Rhe/giphy.webp" alt="12. Price Regression Project" width="80" />
+        <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXNjcmlwZXk3NDk0OTY3emg0cDB1NGN0M2JrdGZ3OTltMGo4NDFvOCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/3ohhwJPSL00H2r6Rhe/giphy.webp" alt="12. Price Regression Project" width="100" />
         <br /> 12. Price Regression Project
       </a>
     </td>
