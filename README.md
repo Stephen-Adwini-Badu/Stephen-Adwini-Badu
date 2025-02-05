@@ -1,6 +1,6 @@
 ![Image](https://github.com/user-attachments/assets/37929506-e7cb-4c6f-b40e-7b702c92c463)
 
-<h1 align="center">Hi🙋🏾‍♂️,&nbsp; I'm Stephen Adwini-Badu</h1>
+<h1 align="center">𝐇𝐢🙋🏾‍♂️,&nbsp; 𝐈'𝐦 𝐒𝐭𝐞𝐩𝐡𝐞𝐧 𝐀𝐝𝐰𝐢𝐧𝐢‑𝐁𝐚𝐝𝐮</h1>
 
 <p align="center">
 Results-driven and metrics-oriented data scientist with expertise in Jupyter, SQL, Tableau, and Spreadsheets. Skilled in transforming data into strategic insights that optimize business operations and drive growth across various industries. Passionate about leveraging business intelligence to support informed decision-making and enhance performance.
@@ -8,7 +8,7 @@ Results-driven and metrics-oriented data scientist with expertise in Jupyter, SQ
 
 <br>
 
-<h2 align="center">💼 REPERTOIRE 🛠️</h2>
+<h1 align="center">💼 𝐑𝐄𝐏𝐄𝐑𝐓𝐎𝐈𝐑𝐄 🛠️</h1>
 
 <table align="center">
  <tr>
@@ -40,7 +40,7 @@ Results-driven and metrics-oriented data scientist with expertise in Jupyter, SQ
 
 <br>
 
-<h2 align="center">🏆 FLAGSHIP PROJECTS 🏛️</h2>
+<h1 align="center">🏆 𝐅𝐋𝐀𝐆𝐒𝐇𝐈𝐏 𝐏𝐑𝐎𝐉𝐄𝐂𝐓𝐒 🏛️</h1>
 
 <table align="center" style="border: none; border-spacing: 0; text-align: center;">
   <tr>
@@ -73,7 +73,7 @@ Results-driven and metrics-oriented data scientist with expertise in Jupyter, SQ
 
 <br>
 
-<h2 align="center">👔 PROFESSIONAL PROFILES 🪪</h2>
+<h1 align="center">👔 𝐏𝐑𝐎𝐅𝐄𝐒𝐒𝐈𝐎𝐍𝐀𝐋 𝐏𝐑𝐎𝐅𝐈𝐋𝐄𝐒 🪪</h1>
 
 <p align="center">
   <a href="https://linkedin.com/in/stephen-adwini-badu-318402188" target="_blank" style="text-decoration: none;">
