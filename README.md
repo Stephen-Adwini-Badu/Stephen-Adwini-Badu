@@ -75,12 +75,22 @@ Results-driven and metrics-oriented data scientist with expertise in Jupyter, SQ
 
 <h2 align="center">👔 𝐏𝐑𝐎𝐅𝐄𝐒𝐒𝐈𝐎𝐍𝐀𝐋 𝐏𝐑𝐎𝐅𝐈𝐋𝐄𝐒 🪪</h2>
 
-<p align="center">
-  <a href="https://linkedin.com/in/stephen-adwini-badu-318402188" target="_blank" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="50" width="60" />
-  </a>
-  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;
-  <a href="https://kaggle.com/stephenadwinibadu" target="_blank" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle Profile" height="50" width="60" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://linkedin.com/in/stephen-adwini-badu-318402188" target="_blank" style="text-decoration: none;">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" width="100" />
+      </a>
+      <br />
+      <font size="4">LinkedIn Profile</font>
+    </td>
+    <td>&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;</td>
+    <td align="center">
+      <a href="https://kaggle.com/stephenadwinibadu" target="_blank" style="text-decoration: none;">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle Profile" width="100" />
+      </a>
+      <br />
+      <font size="4">Kaggle Profile</font>
+    </td>
+  </tr>
+</table>
