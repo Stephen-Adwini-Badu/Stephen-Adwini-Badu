@@ -8,7 +8,7 @@ Results-driven and metrics-oriented data scientist with expertise in Jupyter, SQ
 
 <br>
 
-<h1 align="center">💼 𝐑𝐄𝐏𝐄𝐑𝐓𝐎𝐈𝐑𝐄 🛠️</h1>
+<h2 align="center">💼 𝐑𝐄𝐏𝐄𝐑𝐓𝐎𝐈𝐑𝐄 🛠️</h2>
 
 <table align="center">
  <tr>
@@ -40,7 +40,7 @@ Results-driven and metrics-oriented data scientist with expertise in Jupyter, SQ
 
 <br>
 
-<h1 align="center">🏆 𝐅𝐋𝐀𝐆𝐒𝐇𝐈𝐏 𝐏𝐑𝐎𝐉𝐄𝐂𝐓𝐒 🏛️</h1>
+<h2 align="center">🏆 𝐅𝐋𝐀𝐆𝐒𝐇𝐈𝐏 𝐏𝐑𝐎𝐉𝐄𝐂𝐓𝐒 🏛️</h2>
 
 <table align="center" style="border: none; border-spacing: 0; text-align: center;">
   <tr>
@@ -73,7 +73,7 @@ Results-driven and metrics-oriented data scientist with expertise in Jupyter, SQ
 
 <br>
 
-<h1 align="center">👔 𝐏𝐑𝐎𝐅𝐄𝐒𝐒𝐈𝐎𝐍𝐀𝐋 𝐏𝐑𝐎𝐅𝐈𝐋𝐄𝐒 🪪</h1>
+<h2 align="center">👔 𝐏𝐑𝐎𝐅𝐄𝐒𝐒𝐈𝐎𝐍𝐀𝐋 𝐏𝐑𝐎𝐅𝐈𝐋𝐄𝐒 🪪</h2>
 
 <p align="center">
   <a href="https://linkedin.com/in/stephen-adwini-badu-318402188" target="_blank" style="text-decoration: none;">
