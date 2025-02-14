@@ -83,7 +83,11 @@ Results-driven and metrics-oriented data scientist with expertise in Jupyter, SQ
       <br />
       <font size="4">LinkedIn Profile</font>
     </td>
-    <td>&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;</td>
+    <td align="center">
+     &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;
+     <img src="https://github.com/user-attachments/assets/0960b85d-a0b3-46a1-8c76-2953410c175b" height=150  />
+     &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;
+     </td>
     <td align="center">
       <a href="https://kaggle.com/stephenadwinibadu" target="_blank" style="text-decoration: none;">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle Profile" width="80" />
