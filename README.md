@@ -66,7 +66,7 @@ Results-driven and metrics-oriented data scientist with expertise in Jupyter, SQ
  <tr>
    <td align="center">This project focused on analyzing ticket sales data and engineering features to create a dependable forecasting mechanism for predicting ticket demand trends, achieving a Mean Error of 5% <i>(4.91%)</i> and an R² of 99% <i>(99.05%)</i>.</td>
    <td align="center">This project aimed to predict loan eligibility for potential customers using various demographic attributes, to credibly classify applicants as eligible or not, attaining a precision of 90% and an ROC-AUC of 86%</td>
-   <td align="center">This project involveed conducting a comprehensive price regression analysis, to develop accurate and reliable predictive models for estimating housing prices, obtaining a Mean Error of 9% <i>(8.66%)</i> and an R² of 87% <i>(87.08%)</i></td>
+   <td align="center">This project involved conducting a comprehensive price regression analysis, to develop accurate and reliable predictive models for estimating housing prices, obtaining a Mean Error of 9% <i>(8.66%)</i> and an R² of 87% <i>(87.08%)</i></td>
  </tr>
 </table>
 
